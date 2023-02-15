@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Lucas!
 
-<!--
-**lucasduport/lucasduport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a French student currently studying Computer Engineering at EPITA, and I'm very passionate about technology. Although I haven't had the opportunity to complete an internship in the field of computer science, I have gained valuable experience in various fields through my previous summer jobs. I possess analytical and problem-solving skills, which I've honed through my academic studies. I have a strong work ethic, a willingness to learn, and the ability to adapt quickly to new environments. <br>
+I'm excited to gain practical experience in the field of computer science and to work with a team of professionals who share my passion for technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+- lucasduport@icloud.com
+- https://www.linkedin.com/in/lucas-duport-01a77b210/
+
+## Get in Touch
+
+If you have any questions or just want to say hi, feel free to reach out to me!
