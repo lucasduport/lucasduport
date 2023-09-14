@@ -1,5 +1,9 @@
 # Hi there, I'm Lucas!
-
+ <div>
+  <a href="https://github.com/lucasduport">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasduport&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduport&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ## About Me
 
 I'm a French student currently studying Computer Engineering at EPITA, and I'm very passionate about technology. 
