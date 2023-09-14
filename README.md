@@ -16,5 +16,5 @@ If you have any questions or just want to say hi, feel free to reach out to me!
 - https://www.linkedin.com/in/lucas-duport-01a77b210/
 
 <a href="https://github.com/lucasduport">
- <img src="https://github.com/lucasduport/lucasduport/blob/main/funny_github_grid.svg"/>
+ <img alt="funny github snake" src="https://github.com/lucasduport/lucasduport/blob/main/funny_github_grid.svg"/>
 </a>
