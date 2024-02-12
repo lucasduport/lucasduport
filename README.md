@@ -13,7 +13,6 @@ I'm excited to gain practical experience in the field of computer science and to
 
 ## Contact Me
 If you have any questions or just want to say hi, feel free to reach out to me!
-- https://www.linkedin.com/in/lucas-duport-01a77b210/
 
 <a href="https://github.com/lucasduport">
  <img alt="funny github snake" src="https://github.com/lucasduport/lucasduport/blob/main/funny_github_grid.svg"/>
