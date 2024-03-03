@@ -1,7 +1,6 @@
 # Hi there, I'm Lucas!
 <div>
  <a href="https://github.com/lucasduport">
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasduport&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduport&langs_count=7&theme=dracula&layout=donut&size_weight=0.05&count_weight=0.95"/>
  </a>
 </div>
